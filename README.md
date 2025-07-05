@@ -25,6 +25,3 @@ pip install mysql-connector-python
 
 How to Run the Project ?
 python student1.py
-------------------------------------------------------------------------------------------
-Download haar cascade file to here
-https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
